@@ -22,7 +22,7 @@ app.get("/api/h", (req, res) => {
   console.log(`[TEST ROUTE HIT] ${new Date().toISOString()}`);
 
   res.status(200).json({
-    message: "Test route working",
+    message: "Test route woryyyyyyking",
   });
 });
 
