@@ -1,7 +1,7 @@
 
 import './App.css';
 // import AllData from './components/AllData';
-// import CountriesData from './components/CountriesData';
+import CountriesData from './components/CountriesData';
 import MvoiesList from './components/MvoiesList';
 
 
@@ -12,6 +12,7 @@ function App() {
    {/* <AllData />
    <CountriesData /> */}
    <MvoiesList />
+   <CountriesData />
     </div>
   );
 }
